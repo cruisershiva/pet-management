@@ -2,7 +2,6 @@
 /node_modules
 
 # misc
-/backend/config/config.env
 
 /Frontend/node_modules
 
